@@ -1,7 +1,6 @@
 ﻿import os
 import threading
 import requests
-from pystyle import *
 import time
 import sys
 import uuid
